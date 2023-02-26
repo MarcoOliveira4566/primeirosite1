@@ -1,0 +1,9 @@
+/* Fontes */
+@font-face {
+  font-family: 'paragrafo';
+  src: url('../../../files/fonts/SANFW___.woff') format('woff');
+}
+@font-face {
+  font-family: 'principal';
+  src: url('../../../files/fonts/bodoni-mt-bold-italic.woff') format('woff');
+}
